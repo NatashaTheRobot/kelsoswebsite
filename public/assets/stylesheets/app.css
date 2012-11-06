@@ -1,0 +1,92 @@
+body {
+    background-image: url('../images/top-bar.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: #f5f5f5;
+}
+
+@font-face {
+    font-family: Gotham;
+    src: url('../fonts/Gotham/GothamHTF-Light.otf');
+}
+
+
+/*color for I'm Kelso*/
+header { color: #289a35;
+    font-family: Gotham;
+    font-size: 44px;
+}
+
+summary {
+    margin-top: 25px;
+}
+
+h2 { color: #484848;
+     font-family: Gotham;
+     font-size: 25px;
+     margin-bottom: -12px;
+}
+/*color for links */
+a { color: #289a35;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+article { margin-top: 35px;
+}
+
+/* color for paragraph text */
+p {
+    color: #5e5e5e;
+    font-family: Gotham;
+}
+
+.row {
+    margin-top: 130px;
+}
+
+#separator {
+    background-image: url('../images/separator.png');
+    background-repeat: no-repeat;
+    width: 396px;
+    height: 15px;
+    margin-bottom: 10px;
+}
+
+.email {
+  background-image: url('../images/email-unselected.png');
+  background-repeat: no-repeat;
+  display: block;
+  width: 54px;
+  height: 44px;
+  float: left;
+}
+
+.email:hover {
+    background-image: url('../images/email-selected.png');
+    transition: all 0.25s ease-in-out 0s;
+}
+
+.twitter {
+    background-image: url('../images/tweet-unselected.png');
+    background-repeat: no-repeat;
+    display: block;
+    width: 54px;
+    height: 44px;
+    float: left;
+}
+
+.twitter:hover {
+    background-image: url('../images/tweet-selected.png');
+}
+
+#contact {
+    width: 120px;
+}
+
+footer {
+    margin-bottom: 250px;
+}
