@@ -31,6 +31,11 @@ body {
     src: url('../fonts/Gotham/GothamHTF-Light.otf');
 }
 
+@font-face {
+    font-family: Gotham-Book;
+    src: url('../fonts/Gotham/GothamHTF-Book.otf');
+}
+
 
 /*color for I'm Kelso*/
 header { color: #289a35;
@@ -43,7 +48,7 @@ header { color: #289a35;
 }
 
 h2 { color: #484848;
-     font-family: Gotham;
+     font-family: Gotham-Book;
      font-size: 25px;
      margin-bottom: -12px;
 }
