@@ -1,8 +1,29 @@
 body {
-    background-image: url('../images/top-bar.png');
-    background-repeat: no-repeat;
-    background-position: center top;
     background-color: #f5f5f5;
+}
+
+#border {
+    margin-top: 0px;
+}
+
+#grey {
+    background-color: #d0d0d0;
+    display: inline-table;
+    height: 10px;
+    width: 51%;
+    left: 0px;
+    background-repeat: repeat-x;
+    position: absolute;
+}
+
+#green {
+    background-color: #119946;
+    display: inline-table;
+    width: 50%;
+    right: 0px;
+    height: 10px;
+    background-repeat: repeat-x;
+    position: absolute;
 }
 
 @font-face {
@@ -44,7 +65,7 @@ p {
     font-family: Gotham;
 }
 
-.row {
+.six.columns {
     margin-top: 130px;
 }
 
