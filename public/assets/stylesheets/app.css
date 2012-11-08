@@ -17,7 +17,7 @@ header { color: #289a35;
     font-size: 44px;
 }
 
-summary {
+#title {
     margin-top: 25px;
 }
 
@@ -35,7 +35,7 @@ a:hover {
     text-decoration: underline;
 }
 
-article { margin-top: 35px;
+#bio { margin-top: 35px;
 }
 
 /* color for paragraph text */
