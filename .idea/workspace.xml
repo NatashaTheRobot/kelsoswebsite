@@ -46,19 +46,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="30" selection-start="920" selection-end="920" vertical-scroll-proportion="-6.875">
+            <state line="3" column="28" selection-start="109" selection-end="109" vertical-scroll-proportion="0.07131537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/stylesheets/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.25898203">
+            <state line="11" column="49" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/web.rb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/assets/stylesheets/app.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -439,16 +439,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/assets/stylesheets/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="30" selection-start="920" selection-end="920" vertical-scroll-proportion="-6.875">
+        <state line="11" column="49" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/stylesheets/app.css">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="363" selection-end="363" vertical-scroll-proportion="0.25898203">
+        <state line="3" column="28" selection-start="109" selection-end="109" vertical-scroll-proportion="0.07131537">
           <folding />
         </state>
       </provider>
