@@ -31,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="31" selection-start="795" selection-end="795" vertical-scroll-proportion="-3.75">
+            <state line="36" column="39" selection-start="1717" selection-end="1717" vertical-scroll-proportion="-6.5833335">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/stylesheets/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="71" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.2857143">
+            <state line="110" column="65" selection-start="1942" selection-end="1942" vertical-scroll-proportion="0.35714287">
               <folding />
             </state>
           </provider>
@@ -490,13 +490,6 @@
         <state line="8" column="34" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="795" selection-end="795" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/javascript/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="33" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
@@ -504,9 +497,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="39" selection-start="1717" selection-end="1717" vertical-scroll-proportion="-6.5833335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/stylesheets/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="71" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.2857143">
+        <state line="110" column="65" selection-start="1942" selection-end="1942" vertical-scroll-proportion="0.35714287">
           <folding />
         </state>
       </provider>

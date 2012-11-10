@@ -110,7 +110,7 @@ p {
 .twitter {
     background: url('../images/tweet-selected.png') no-repeat top;
     width: 54px;
-    height: 46px;
+    height: 45px;
     float: left;
     opacity: 0.5;
     transition: opacity .25s ease-in-out;
