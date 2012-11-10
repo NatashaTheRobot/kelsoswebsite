@@ -6,7 +6,7 @@ body {
     margin-top: 0px;
 }
 
-#grey {
+#color-right {
     background-color: #d0d0d0;
     display: inline-table;
     height: 10px;
@@ -16,7 +16,7 @@ body {
     position: absolute;
 }
 
-#green {
+#color-left {
     background-color: #119946;
     display: inline-table;
     width: 50%;
@@ -72,6 +72,10 @@ p {
 
 .columns {
     margin-top: 130px;
+}
+
+.six {
+    padding: 0;
 }
 
 #separator {
