@@ -55,10 +55,15 @@ h2 { color: #484848;
 /*color for links */
 a { color: #289a35;
     text-decoration: none;
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
 }
 
 a:hover {
     text-decoration: underline;
+    opacity: 0.6;
 }
 
 #bio { margin-top: 35px;
@@ -87,30 +92,38 @@ p {
 }
 
 .email {
-  background-image: url('../images/email-unselected.png');
-  background-repeat: no-repeat;
-  display: block;
-  width: 54px;
-  height: 44px;
-  float: left;
+      background-image: url('../images/email-selected.png');
+      background-repeat: no-repeat;
+      display: block;
+      width: 54px;
+      height: 44px;
+      float: left;
+      opacity: 0.5;
+      transition: opacity .25s ease-in-out;
+      -moz-transition: opacity .25s ease-in-out;
+      -webkit-transition: opacity .25s ease-in-out;
 }
 
 .email:hover {
-    background-image: url('../images/email-selected.png');
-    transition: all 0.25s ease-in-out 0s;
+    opacity: 1;
 }
 
 .twitter {
-    background-image: url('../images/tweet-unselected.png');
+    background-image: url('../images/tweet-selected.png');
     background-repeat: no-repeat;
     display: block;
     width: 54px;
     height: 44px;
     float: left;
+    margin-top: 1px;
+    opacity: 0.5;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
 }
 
 .twitter:hover {
-    background-image: url('../images/tweet-selected.png');
+    opacity: 1;
 }
 
 #contact {
